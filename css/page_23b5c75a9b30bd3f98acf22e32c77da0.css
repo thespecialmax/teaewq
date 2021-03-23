@@ -1,0 +1,26 @@
+
+
+/* Start:/bitrix/templates/b24blog/components/bitrix/blog.blog/best_theme_posts/style.css?1424337033351*/
+.category-name-title
+{
+    font-size: 41px;
+    line-height: 55px;
+    font-weight: 300;
+    margin: 0 0 14px;
+}
+
+.post-by-theme
+{
+    background-color: #475155;
+    border-radius: 3px;
+    color: #fff;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: 300;
+    margin: 30px 0 0;
+    padding: 5px 12px;
+    text-transform: uppercase;
+}
+
+/* End */
+/* /bitrix/templates/b24blog/components/bitrix/blog.blog/best_theme_posts/style.css?1424337033351 */
